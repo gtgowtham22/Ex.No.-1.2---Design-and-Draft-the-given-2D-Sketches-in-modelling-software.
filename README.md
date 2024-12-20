@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![exp2](https://github.com/user-attachments/assets/b328d661-cd33-4aac-b316-dcc4be8e57ad)
+ ![LM EX 1 2 DRAWING v1 pdf pdf_20241210_105204_0000 pdf (1)](https://github.com/user-attachments/assets/47997785-a595-4c15-90f1-57444fdc98f5)
+
 
  
  ## RESULT
